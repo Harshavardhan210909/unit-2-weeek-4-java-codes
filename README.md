@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Harshavardhan210909/unit-2-weeek-4-java-codes/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/Harshavardhan210909/unit-2-weeek-4-java-codes/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Harshavardhan210909/unit-2-weeek-4-java-codes/tree/master/0283-move-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Harshavardhan210909/unit-2-weeek-4-java-codes/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Harshavardhan210909/unit-2-weeek-4-java-codes/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
