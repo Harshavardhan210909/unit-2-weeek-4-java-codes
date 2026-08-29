@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/Harshavardhan210909/unit-2-weeek-4-java-codes/tree/master/1314-matrix-block-sum) |
+## String
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Harshavardhan210909/unit-2-weeek-4-java-codes/tree/master/1704-determine-if-string-halves-are-alike) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Harshavardhan210909/unit-2-weeek-4-java-codes/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
